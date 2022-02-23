@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #79C4C8;
+    color: #06656A;
+    font-size: medium;
+}
+
+table{
+    text-align: center;
+    color: #06656A;
+}
+
+h1{
+    text-align: center;
+    margin-left: auto;
+    color: #06656A;
+}
+#btn{
+    background-color:#06656A;
+    color: #ffff;
+    border-style: solid;
+    border-radius: 8px;
+}
+#btnClean{
+    background-color:#06656A;
+    color: #ffff;
+    border-style: solid;
+    border-radius: 8px;
+}
